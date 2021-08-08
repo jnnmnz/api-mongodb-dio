@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj": {}
+    "C:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj": {
+    "C:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj",
+        "projectUniqueName": "C:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj",
         "projectName": "ApiEscolaridade",
-        "projectPath": "c:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj",
+        "projectPath": "C:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj",
         "packagesPath": "C:\\Users\\Jenn-y\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\obj\\",
+        "outputPath": "C:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jenn-y\\AppData\\Roaming\\NuGet\\NuGet.Config"

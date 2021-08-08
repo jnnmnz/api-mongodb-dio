@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m+8D0ycsMKjY0z1wQgwJx2eOgY3jLDqPBbOKmBnNKrc6PyloSwsteP76KPh/AzdJUFc52+zPy1j45nXa3JHQVw==",
+  "dgSpecHash": "2N34ObFTr9tysY7UASDbG/u/FupGRNVBJLt4BflQ36rgFJg1owe7hPpHI7f9zv+YagS7+jQBzhoXh3lGIVIzEQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj",
+  "projectFilePath": "C:\\Users\\Jenn-y\\@jnnmnz (github)\\ApiEscolaridade\\ApiEscolaridade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jenn-y\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Jenn-y\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
